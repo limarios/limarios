@@ -1,7 +1,6 @@
 ## Olá eu sou a Matheus Lima, analista de sistemas e tecnologo!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Olá! Sou Matheus Lima, um entusiasta da tecnologia e da criatividade, nascido em Salvador/BA. Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Jorge Amado e tenho buscado constantemente aprimorar minhas habilidades através de cursos e especializações. Conheça alguns dos meus projetos e contribuições públicos em [repositorios](https://github.com/Matlima?tab=repositories)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
