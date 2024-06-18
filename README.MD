@@ -1,6 +1,6 @@
 ## Olá eu sou a Matheus Lima, analista de sistemas e tecnologo!
 
-Olá! Sou Matheus Lima, um entusiasta da tecnologia e da criatividade, nascido em Salvador/BA. Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Jorge Amado e tenho buscado constantemente aprimorar minhas habilidades através de cursos e especializações. Conheça alguns dos meus projetos e contribuições públicos em [repositorios](https://github.com/Matlima?tab=repositories)
+Um entusiasta da tecnologia e da criatividade, nascido em Salvador/BA. Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Jorge Amado e tenho buscado constantemente aprimorar minhas habilidades através de cursos e especializações. Já trabalhei em diversos projetos de tecnologia e inovação. Conheça alguns dos meus projetos e contribuições públicos em [repositorios](https://github.com/Matlima?tab=repositories)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
