@@ -1,6 +1,6 @@
 ## Olá eu sou a Matheus Lima, analista de sistemas e tecnologo!
 
-Um entusiasta da tecnologia e da criatividade, nascido em Salvador/BA. Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Jorge Amado e tenho buscado constantemente aprimorar minhas habilidades através de cursos e especializações. Já trabalhei em diversos projetos de tecnologia e inovação. Conheça alguns dos meus projetos e contribuições públicos em [repositorios](https://github.com/Matlima?tab=repositories)
+Um entusiasta da tecnologia e da criatividade, nascido em Salvador/BA. Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Jorge Amado e tenho buscado constantemente aprimorar minhas habilidades através de cursos e especializações. Já trabalhei em diversos projetos de tecnologia e inovação. Conheça alguns dos meus projetos e contribuições.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,6 +10,7 @@ Um entusiasta da tecnologia e da criatividade, nascido em Salvador/BA. Sou forma
   <img align="center" alt="Mat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Mat-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 </div>
   
   ##
