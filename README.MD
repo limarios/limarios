@@ -20,3 +20,6 @@ Um entusiasta da tecnologia e da criatividade, nascido em Salvador/BA. Sou forma
   <a href="https://www.linkedin.com/in/limarios" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Matlima=anuraghazra&show_icons=true&bg_color=00000000)
+
