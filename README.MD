@@ -1,7 +1,7 @@
 ## Olá eu sou a Matheus Lima, analista de sistemas e web design!
 
 Um entusiasta da tecnologia e da criatividade, nascido em Salvador/BA. Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Jorge Amado e tenho buscado constantemente aprimorar minhas habilidades através de cursos e especializações. 
-Já trabalhei em diversos projetos de tecnologia e inovação, conheça alguns dos meus projetos e contribuições.
+Já trabalhei em diversos projetos de tecnologia e inovação, conheça alguns dos meus projetos e contribuições públicos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
