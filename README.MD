@@ -1,7 +1,7 @@
 ## Olá eu sou a Matheus Lima, analista de sistemas e web design!
 
 Um entusiasta da tecnologia e da criatividade, nascido em Salvador/BA. Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Jorge Amado e tenho buscado constantemente aprimorar minhas habilidades através de cursos e especializações. 
-Já trabalhei em diversos projetos de tecnologia e inovação, conheça alguns dos meus projetos e contribuições públicos.
+Já trabalhei em diversos projetos de tecnologia e inovação, conheça alguns dos meus projetos públicos.
 
 Atuo como analista e desenvolvedor de sistemas em tempo integral, além de oferecer serviços como freelancer. Tenho experiência em criar soluções personalizadas que abrangem uma ampla variedade de setores, incluindo tecnologia, moda, saúde, contabilidade e marketing. Meus projetos variam entre as áreas de designer gráfico, web designer, desenvolvimento de sistemas web escaláveis, aplicativos móveis, e-commerce, automações, integrações de sistemas, inteligência artificial e engenharia de dados sempre com foco em entregar soluções eficientes e impactantes.
 
