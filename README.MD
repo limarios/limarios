@@ -1,6 +1,6 @@
 ## Hello, I'm Matheus Lima!
 
-I work as a full-time systems analyst and developer, in addition to offering freelance services. I have experience creating custom solutions that span a wide range of industries, including technology, fashion, healthcare, accounting and marketing. My projects vary between the areas of web designer, web systems development, mobile applications, e-commerce, robotic process automation (RPA), system integrations, artificial intelligence, data science and data engineering, always focusing on delivering efficient and impactful solutions.
+I work as a full-time software engineer, in addition to offering freelance services. I have experience creating custom solutions that span a wide range of industries, including technology, fashion, healthcare, accounting and marketing. My projects vary between the areas of web designer, web systems development, mobile applications, e-commerce, robotic process automation (RPA), system integrations, artificial intelligence, data science and data engineering, always focusing on delivering efficient and impactful solutions.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
