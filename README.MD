@@ -1,6 +1,6 @@
-## Olá, eu sou Matheus Lima!
+## Hello, I'm Matheus Lima!
 
-Atuo como analista e desenvolvedor de sistemas em tempo integral, além de oferecer serviços como freelancer. Tenho experiência em criar soluções personalizadas que abrangem uma ampla variedade de setores, incluindo tecnologia, moda, saúde, contabilidade e marketing. Meus projetos variam entre as áreas de web designer, desenvolvimento de sistemas web, aplicativos móveis, e-commerce, automações robóticas de processos (RPA), integrações de sistemas, inteligência artificial, data science e engenharia de dados sempre com foco em entregar soluções eficientes e impactantes.
+I work as a full-time systems analyst and developer, in addition to offering freelance services. I have experience creating custom solutions that span a wide range of industries, including technology, fashion, healthcare, accounting and marketing. My projects vary between the areas of web designer, web systems development, mobile applications, e-commerce, robotic process automation (RPA), system integrations, artificial intelligence, data science and data engineering, always focusing on delivering efficient and impactful solutions.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
