@@ -18,8 +18,3 @@ Atuo como analista e desenvolvedor de sistemas em tempo integral, além de ofere
   <a href="https://www.linkedin.com/in/limarios" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-  ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matlima&show_icons=true&theme=dark)
-
