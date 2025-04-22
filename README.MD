@@ -1,10 +1,10 @@
 ## Hello, I'm Matheus Lima!
 
-I work as a full-time pleno systems analyst in addition to offering freelance services. I have experience creating custom solutions that span a wide range of industries, including technology, fashion, healthcare, accounting and marketing. My projects vary between the areas of design, web development, mobile, e-commerce, robotic process automation (RPA), system integrations and artificial intelligence, always focusing on delivering efficient and impactful solutions.
+Software Engineer and Full-Stack Developer with a strong focus on developing web solutions, automations, and robust integrations. I have experience in all stages of software engineering — from requirements analysis to delivery and maintenance — with a focus on performance, scalability, and security.
 
 --
 
-Trabalho como analista de sistemas pleno em tempo integral, além de oferecer serviços freelance. Tenho experiência na criação de soluções personalizadas que abrangem uma ampla gama de setores, incluindo tecnologia, moda, saúde, contabilidade e marketing. Meus projetos variam entre as áreas de design, desenvolvimento web, mobile, e-commerce, automação robótica de processos (RPA), integrações de sistemas e inteligência artificial, sempre com foco em entregar soluções eficientes e impactantes.
+Software Engineer e Full-Stack Developer com forte atuação no desenvolvimento de soluções web, automações e integrações robustas. Tenho experiência em todas as etapas da engenharia de software — da análise de requisitos à entrega e manutenção — com foco em performance, escalabilidade e segurança.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
