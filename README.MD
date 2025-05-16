@@ -1,10 +1,11 @@
 ## Hello, I'm Matheus Lima!
 
-Software Engineer and Full-Stack Developer with a strong focus on developing web solutions, automations, and integrations. I have experience in all stages of software engineering — from requirements analysis to delivery and maintenance — with a focus on performance, scalability, and security.
+I am a Software Engineer and Full-Stack Developer with solid experience in developing web solutions, intelligent automation and complex integrations between systems. I work in all stages of the development cycle — from conception to delivery and maintenance — with a focus on performance, security and scalability.
 
 --
 
-Software Engineer e Full-Stack Developer com forte atuação no desenvolvimento de soluções web, automações e integrações. Tenho experiência em todas as etapas da engenharia de software — da análise de requisitos à entrega e manutenção — com foco em performance, escalabilidade e segurança.
+Sou Engenheiro de Software e Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de soluções web, automações inteligentes e integrações complexas entre sistemas. Atuo em todas as etapas do ciclo de desenvolvimento — da concepção à entrega e manutenção — com foco em performance, segurança e escalabilidade.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
