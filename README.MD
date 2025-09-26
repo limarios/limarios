@@ -1,6 +1,6 @@
 ## Hello, I'm Matheus Lima!
 
-I am a Software Engineer and Full-Stack Developer with solid experience in developing web solutions, intelligent automation and complex integrations between systems. I work in all stages of the development cycle, from conception to delivery and maintenance, with a focus on performance, security and scalability.
+Technology Leader and Software Engineer with solid experience in full-stack web development, software architecture, and leading high-performance teams. With a postgraduate degree in Software Engineering, I have a track record in conceiving, designing, and delivering scalable solutions that increase productivity, optimize processes, and generate direct business impact.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
