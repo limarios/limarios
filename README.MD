@@ -2,7 +2,7 @@
 
 Technology Leader and Software Engineer with solid experience in full-stack web development, software architecture, and leading high-performance teams. With a postgraduate degree in Software Engineering, I have a track record in conceiving, designing, and delivering scalable solutions that increase productivity, optimize processes, and generate direct business impact.
 
-### Tech Stack
+### Main Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
