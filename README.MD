@@ -19,7 +19,7 @@ Possuo **Pós-graduação em Engenharia de Software** e mais de **6+ anos de exp
 
 ### Backend & APIs
 - **Python**: FastAPI, Flask | DDD, REST APIs, Automação
-- **Arquitetura**: Domain-Driven Design, Clean Architecture, Microserviços
+- **Arquitetura**: MVC, Domain-Driven Design, Clean Architecture, Feature-Based Architecture,  Microserviços
 - **Integração**: Automação de processos, APIs HTTP/JSON, Websockets
 - **DevOps & Observability**: Grafana, Loki, Promtail, NSSM, Docker
 
@@ -30,11 +30,11 @@ Possuo **Pós-graduação em Engenharia de Software** e mais de **6+ anos de exp
 
 ### Linguagens & Ferramentas
 ```
-💪 Core:           Python | TypeScript | JavaScript | C#
+💪 Core:           Python | TypeScript | JavaScript | C# | JAVA
 🎨 Frontend:       React | HTML5 | CSS3
 📡 Backend:        FastAPI | Flask | REST APIs
-🏗️ Arquitetura:    DDD | Clean Architecture
-🔧 DevOps:         Docker | Grafana | Loki
+🏗️ Arquitetura:    MVC, DDD | Clean Architecture | Feature-Based Architecture
+🔧 DevOps:         Docker | Grafana | Loki 
 ```
 
 ---
