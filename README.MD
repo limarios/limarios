@@ -120,7 +120,7 @@ Solução especializada para otimização logística e análise de trajetos.
 ### 📋 **[webapp-sipej](https://github.com/limarios/webapp-sipej)** - Sistema Judiciário
 *Desenvolvedor Full-Stack*
 
-Plataforma web para gestão de processos judiciários.
+Plataforma web para gestão de processos judiciários desenvolvido para o Tribunal de Justiça do Estado da Bahia (TJBA).
 
 ---
 
