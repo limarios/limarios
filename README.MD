@@ -4,7 +4,7 @@ Technology Leader and Software Engineer with solid experience in full-stack web 
 
 ### Main Stack
 
-<div style="display: inline_block"><br>
+<div style="display: flexk"><br>
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
