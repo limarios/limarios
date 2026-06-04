@@ -37,41 +37,6 @@ Possuo **Pós-graduação em Engenharia de Software** e mais de **6+ anos de exp
 🔧 DevOps:         Docker | Grafana | Loki 
 ```
 
-## 🎓 Competências Principais
-
-### Arquitetura & Design
-✅ Domain-Driven Design (DDD)
-✅ Clean Architecture
-✅ Design Patterns (Factory, Strategy, Observer, etc)
-✅ Microserviços & Monólitos
-✅ SOLID Principles
-
-### Desenvolvimento Backend
-✅ APIs RESTful escaláveis
-✅ Task Queues (Celery, Redis)
-✅ Processamento de dados em larga escala
-✅ Integração com órgãos governamentais
-✅ Automação de processos críticos
-
-### Desenvolvimento Frontend
-✅ Interfaces reativas com React
-✅ TypeScript para código type-safe
-✅ Dashboards & Data Visualization
-✅ Responsive Design
-
-### Liderança & Soft Skills
-✅ Liderança de equipes técnicas
-✅ Mentoração de desenvolvedores
-✅ Comunicação com stakeholders
-✅ Gestão de projetos complexos
-✅ Code Review & Best Practices
-
-### DevOps & Observabilidade
-✅ Docker & Containerização
-✅ Observability Stack (Grafana, Loki, Promtail)
-✅ CI/CD Pipelines
-✅ Monitoramento de aplicações
-
 ---
 
 ## 📊 Métricas & Impacto
