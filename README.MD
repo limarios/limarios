@@ -3,7 +3,7 @@
 **Engenheiro de Software Sênior & Líder Técnico** — Python • .NET • Arquitetura de Software
 
 Lidero o desenvolvimento de um ecossistema de produtos digitais para o setor contábil:
-integrações fiscais (SEFAZ, SERPRO, Integra Contador), automações com RPA e IA, e
+integrações e conciliações contábeis, fiscais (Receita Federal, GOV, SEFAZ, SERPRO, Integra Contador), automações com RPA e IA, sistemas personalizados e
 infraestrutura observável de ponta a ponta.
 
 ## Stack
