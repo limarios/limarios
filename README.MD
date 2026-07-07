@@ -9,12 +9,12 @@ infraestrutura observável de ponta a ponta.
 ## Stack
 
 ```text
-Linguagens     Python · TypeScript · C# · Java
-Back-end       FastAPI · Flask · Django · Celery · ASP.NET Core
-Front-end      React · Tailwind
-Arquitetura    DDD · Clean Architecture · Microsserviços
-DevOps         Docker · Kubernetes · GitHub Actions · Grafana · Loki · Prometheus
-Mensageria     Redis · RabbitMQ · Kafka
+Linguagens     Python · C# · Java · TypeScript · JavaScript
+Back-end       FastAPI · Flask · Django · Celery · ASP.NET Core · Blazor · EF Core · Spring Boot · Hibernate · JSF
+Front-end      React · Angular · Tailwind · Bootstrap  
+Arquitetura    Monolítica · MVC · Layers · Hexagonal · DDD · Clean Architecture · Microsserviços · SOA · EDA 
+DevOps         Docker · Kubernetes · GitHub Actions · Jenkins · Grafana · Loki · Prometheus · Terraform
+Mensageria     Redis · RabbitMQ · Kafka · Amazon SQS · Google Pub/Sub
 Cloud          AWS · Azure · GCP
 ```
 
