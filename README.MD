@@ -1,6 +1,6 @@
 # Matheus Lima
 
-**Engenheiro de Software Sênior & Líder Técnico** — Python • .NET • Arquitetura de Software
+**Engenheiro de Software Sênior & Líder Técnico** — Python • .NET • React • AWS • RPA • Automações • AI
 
 Atuo como Engenheiro de Software e Líder Técnico, liderando o desenvolvimento de produtos digitais, automações e soluções com inteligência artificial. Ao longo da minha carreira, projetei do zero diversos ecossistemas de software para os segmentos contábil, tecnológico e varejista, desenvolvendo soluções escaláveis, integrando plataformas governamentais, automatizando processos complexos e aplicando inteligência artificial para aumentar a eficiência operacional, reduzir custos e gerar valor para o negócio.
 
