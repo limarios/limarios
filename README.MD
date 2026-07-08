@@ -2,9 +2,7 @@
 
 **Engenheiro de Software Sênior & Líder Técnico** — Python • .NET • Arquitetura de Software
 
-Lidero o desenvolvimento de um ecossistema de produtos digitais para o setor contábil:
-integrações e conciliações contábeis, fiscais (Receita Federal, GOV, SEFAZ, SERPRO, Integra Contador), automações com RPA e IA, sistemas personalizados e
-infraestrutura observável de ponta a ponta.
+Atuo como Engenheiro de Software e Líder Técnico, liderando o desenvolvimento de produtos digitais, automações e soluções com inteligência artificial. Ao longo da minha carreira, projetei do zero diversos ecossistemas de software para os segmentos contábil, tecnológico e varejista, desenvolvendo soluções escaláveis, integrando plataformas governamentais, automatizando processos complexos e aplicando inteligência artificial para aumentar a eficiência operacional, reduzir custos e gerar valor para o negócio.
 
 ## Stack
 
